@@ -1,4 +1,4 @@
-# RED DEVIL SQUAD LAB v2
+# 황유 FC온라인 스쿼드메이커
 
 호날두 맨유 시절을 테마로 한 FC Online 스쿼드 메이커 프로토타입입니다.
 
